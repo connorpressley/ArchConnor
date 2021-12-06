@@ -47,7 +47,6 @@ PKGS=(
 'ttf-hack'
 'ttf-meslo' # Nerdfont package
 'ttf-roboto'
-'ungoogled-chromium'
 'vscodium-bin'
 #'zoom' # video conferences
 'snap-pac'
