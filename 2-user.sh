@@ -57,9 +57,9 @@ for PKG in "${PKGS[@]}"; do
 done
 
 export PATH=$PATH:~/.local/bin
-cp -r $HOME/ArchConnor/dotfiles/* $HOME/.config/
+cp -r $HOME/ArchTitus/dotfiles/* $HOME/.config/
 pip install konsave
-konsave -i $HOME/ArchConnor/kde.knsv
+konsave -i $HOME/ArchTitus/kde.knsv
 sleep 1
 konsave -a kde
 
